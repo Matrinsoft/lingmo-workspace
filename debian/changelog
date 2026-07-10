@@ -1,5 +1,5 @@
-﻿lingmo-workspace (1.0.0-1) trixie; urgency=medium
+﻿lingmo-workspace (1.0.0) trixie; urgency=medium
 
-  * Initial release of Lingmo Workspace.
+  * Initial release of lingmo-workspace.
 
- -- Lingmo OS Team <team@lingmo.org>  Wed, 10 Jul 2026 00:00:00 +0000
+ -- Lingmo OS Team <team@lingmo.org>  Fri, 10 Jul 2026 +0000
